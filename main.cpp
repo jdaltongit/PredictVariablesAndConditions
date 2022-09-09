@@ -13,7 +13,7 @@ if( feet / 3 > 1 ){
 
 // Problem 3
 char letter = 'D';
-if( letter >= 'A' & letter <= 'Z' ){
+if( letter >= 'A' && letter <= 'Z' ){
     cout << "Upper";
 }
 
